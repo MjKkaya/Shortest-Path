@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ad069ab710e4b4b84cc34f3a58b68b, type: 3}
+  m_Name: SOMeshItem_Barel
+  m_EditorClassIdentifier: 
+  MeshName: Barel
+  MeshItemType: 4
+  MeshPrefab: {fileID: 1728044942165785283, guid: 7a824023fb7bc46f7910d19e5d5f3d7f,
+    type: 3}
+  MeshInstance: {fileID: 0}

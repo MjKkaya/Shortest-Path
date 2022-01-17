@@ -1,4 +1,4 @@
-# Shortest-Path
+# Shortest Path
 * Finding the shortest path between two points.
 * This project developed on Unity 2020.3.26f1.
 
